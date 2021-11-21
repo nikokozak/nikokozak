@@ -13,8 +13,8 @@ I'm currently doing a 12-week **[Recurse Center](https://www.recurse.com/)** bat
 
 ### Other Projects:
 
-- 👓 An interactive viewer for the book [Morphing Architecture](https://www.amazon.com/Morphing-Mathematical-Transformations-Architects-Designers/dp/1780674139/). [Repo](https://github.com/nikokozak/shapes-for-architects)
-- ✍🏻 A complete rewrite of the [Recurse Center Swag Site](https://swag.recurse.com) with a hand-rolled Ruby framework, replacing a heavy React build. [Repo](https://github.com/nikokozak/rc-badges-rewrite)
-- 🌕 A moon calendar for your terminal! [Repo](https://github.com/nikokozak/moon)
-- 🦠 A text-based COVID tracker for Chile. [Repo](https://github.com/nikokozak/covidpoem)
-- 🪶 An Elixir-powered back-end for referral tracking, by synchronizing a local DB with Maichilmp's using web-hooks. [Repo](https://github.com/nikokozak/pluma_newsletter_api)
+- 👓 An **[interactive viewer](https://github.com/nikokozak/shapes-for-architects)** for the book [Morphing Architecture](https://www.amazon.com/Morphing-Mathematical-Transformations-Architects-Designers/dp/1780674139/).
+- ✍🏻 A **[complete rewrite]**(https://github.com/nikokozak/rc-badges-rewrite) of the [Recurse Center Swag Site](https://swag.recurse.com) with a hand-rolled Ruby framework, replacing a heavy React build.
+- 🌕 A **[moon calendar](https://github.com/nikokozak/moon)** for your terminal!
+- 🦠 A **[text-based COVID tracker](https://github.com/nikokozak/covidpoem)** for Chile.
+- 🪶 An [Elixir-powered back-end](https://github.com/nikokozak/pluma_newsletter_api) for referral tracking, by synchronizing a local DB with Maichilmp's using web-hooks.
