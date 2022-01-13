@@ -6,8 +6,8 @@ I'm currently doing a 12-week **[Recurse Center](https://www.recurse.com/)** bat
 
 ### What's going on now:
 
-- 🔭 I’m currently working on a cleaner way to view news from many outlets in Chile (where all news websites are plauged by a frustrating amount of pop-up ads). Repo: [CL News](https://github.com/nikokozak/cl_news)
-- 🤔 I'm also trudging along, trying to finish the implementation of a raytracer written in C, based on the book [Ray Tracer Challenge](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/). Repo: [C Raytracer](https://github.com/nikokozak/c-raytracer)
+- ⛋ As I build other projects, I'm also maintaining [Svonix](https://github.com/nikokozak/svonix), a library for integrating Svelte with Phoenix.
+- 🔭 I’m currently working on a [cleaner way to view news from many outlets in Chile](https://lectorchile.com/) (where all news websites are plauged by a frustrating amount of pop-up ads). Repo: [CL News](https://github.com/nikokozak/cl_news)
 - 👯 I’m looking to collaborate on my custom DSL for the book Morphing Architecture. See: [Interactive MA](https://morphing-architecture.onrender.com/)
 - 🌱 I’m currently learning how to better work with (in development), and deploy/manage databases.
 
