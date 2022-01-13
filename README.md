@@ -2,7 +2,7 @@
 
 In a past life I was a **Creative Director and artist** - now I'm a developer interested in **language design, human-computer interfaces, and the generative possibilities of the web**. Some of my previous work is still up on my [website](https://nkozak.com/).
 
-I'm currently doing a 12-week **[Recurse Center](https://www.recurse.com/)** batch, where I've focused on DSL's and learning about application deployment.
+I recently finished a 12-week **[Recurse Center](https://www.recurse.com/)** batch, where I've focused on DSL's and learning about application deployment.
 
 ### What's going on now:
 
