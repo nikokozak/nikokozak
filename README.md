@@ -15,6 +15,7 @@ I recently finished a 12-week **[Recurse Center](https://www.recurse.com/)** bat
 
 - 👓 An **[interactive viewer](https://github.com/nikokozak/shapes-for-architects)** for the book [Morphing Architecture](https://www.amazon.com/Morphing-Mathematical-Transformations-Architects-Designers/dp/1780674139/).
 - 🌕 A **[moon calendar](https://github.com/nikokozak/moon)** for your terminal!
+- 🛠️ A **[cad experiment](https://nkozak.com/assets/programs/ripl-1/index.html) that tracks through some of my [thoughts](https://nkozak.com/code-interactive/rethinking-cad.html) on interaction design.
 - 🦠 A **[text-based COVID tracker](https://github.com/nikokozak/covidpoem)** for Chile.
 - ✍🏻 A **[complete rewrite]**(https://github.com/nikokozak/rc-badges-rewrite) of the [Recurse Center Swag Site](https://swag.recurse.com) with a hand-rolled Ruby framework, replacing a heavy React build.
 - 🪶 An [Elixir-powered back-end](https://github.com/nikokozak/pluma_newsletter_api) for referral tracking, by synchronizing a local DB with Maichilmp's using web-hooks.
